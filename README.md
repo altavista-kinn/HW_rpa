@@ -1,4 +1,4 @@
-Video link https://www.loom.com/share/afd03f696ad94c4184d2e9e11ba1c22a
+Video link https://www.loom.com/share/afd03f696ad94c4184d2e9e11ba1c22a  
 The robot is used to automate the process of  https://www.semanticscholar.org/ literature collection for the user-defined topic. Result of the process is an email with attached excel with info about each found article.
 
 ### Used libraries
