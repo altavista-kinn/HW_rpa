@@ -18,4 +18,4 @@ The robot is used to automate the process of  https://www.semanticscholar.org/ l
 - Create a virtual environment (optional)
 - Install packages from requirements.txt
 - Make setup correcting conf.py file
-- Run script articles_search.py
+- Run script rpa.py
